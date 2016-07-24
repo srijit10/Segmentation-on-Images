@@ -1,6 +1,7 @@
 import cv2
 import numpy as np
 
+
 def otsu(img):
     cols,rows =img.shape
     # Apply double thresholding to remove noise
