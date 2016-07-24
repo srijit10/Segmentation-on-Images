@@ -22,6 +22,7 @@ for i in xrange(0,256):
 plt.scatter(X[:, 0], X[:, 1])
 plt.show()
 
+
 # Apply double thresholding to remove noise
 # Threshold1=40 , Threshold2=100
 #for spider threshold1=70 ,threshold2=170
