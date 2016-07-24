@@ -20,6 +20,7 @@ def histogramthresholding(img):
     #plt.scatter(X[:, 0], X[:, 1])
     #plt.show()
 
+
     for i in xrange(1,256):
         if(occurances[i]>0):
             start=i
