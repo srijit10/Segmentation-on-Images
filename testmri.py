@@ -9,6 +9,7 @@ from histogramthresholding import histogramthresholding
 from otsu import otsu
 import random
 
+
 testarr=['188_1_1_back.jpg','188_1_2_back.jpg','188_2_1_back.jpg','190_4_1_back.jpg','190_5_1_back.jpg',
           '190_7_1_back.jpg','188_3_1_back.jpg','188_7_1_back.jpg','188_3_2_back.jpg','188_4_1_back.jpg'
           ]
